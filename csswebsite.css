@@ -1,0 +1,59 @@
+.logo {
+	width: 150px;
+	height: 150px;
+}
+body {
+	background-image: url(http://7-themes.com/data_images/out/57/6965709-waterfall-forest-background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.loletter {
+	width: 219px;
+	height: 59px;
+}
+.welcome {
+	width: 907px;
+	height: 134px;
+}
+.left {
+	position: fixed;
+	float: left;
+	margin-top: 80px;
+	width: 75%;
+	height: 500px;
+	margin-bottom: 10px;
+}
+.right {
+	padding-right: 4em;
+	color: white;
+	position: relative;
+	float: right;
+	margin-top: 80px;
+	width: 25%;
+	height: 500px;
+	margin-bottom: 10px;
+}
+#menu {
+    width: 550px;
+    height: 35px;
+    font-size: 16px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 3px 2px 3px #333333;
+    background-color: #8AD9FF;
+    border-radius: 8px;
+    background-image: url(http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg);
+}
+#menu li { 
+display: inline; 
+padding: 20px; 
+}
+#menu a {
+    text-decoration: none;
+    color: #00F;
+    padding: 8px 8px 8px 8px;
+}
+#home {
+	background-image: url();
+}
