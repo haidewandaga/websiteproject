@@ -3,7 +3,7 @@
 	height: 150px;
 }
 body {
-	background-image: url(http://7-themes.com/data_images/out/57/6965709-waterfall-forest-background.jpg);
+	background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img/forest.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
@@ -43,7 +43,7 @@ body {
     text-shadow: 3px 2px 3px #333333;
     background-color: #8AD9FF;
     border-radius: 8px;
-    background-image: url(http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg);
+    background-image: url("http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg");
 }
 #menu li { 
 display: inline; 
@@ -57,3 +57,4 @@ padding: 20px;
 #home {
 	background-image: url();
 }
+tiger
