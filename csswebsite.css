@@ -1,49 +1,51 @@
 .logo {
-	width: 150px;
-	height: 150px;
+  width: 100px;
+  height:100px;
 }
 body {
-	background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img/forest.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+  background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img/forest.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 .loletter {
-	width: 219px;
-	height: 59px;
+  padding-left: 2em;
+  width: 100px;
+  height: 30px;
 }
 .welcome {
-	width: 907px;
-	height: 134px;
+  width: 900px;
+  height: 55px;
+  text-align: center;
 }
-.left {
-	position: fixed;
-	float: left;
-	margin-top: 80px;
-	width: 75%;
-	height: 500px;
-	margin-bottom: 10px;
+#left {
+  
+  font-family: Tahoma, Geneva, sans-serif;
+  color: white;
+  position: relative;
+  float: right;
+  margin-top: 80px;
+  width: 800%;
+  height: 500px;
+  margin-bottom: 10px
 }
-.right {
-	padding-right: 4em;
-	color: white;
-	position: relative;
-	float: right;
-	margin-top: 80px;
-	width: 25%;
-	height: 500px;
-	margin-bottom: 10px;
+#category {
+   font-family: Tahoma, Geneva, sans-serif;
+   text-align: center;
+   width: 1200px;
+   height: 50px;
+   background-image: url("http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg" );
 }
 #menu {
-    width: 550px;
-    height: 35px;
-    font-size: 16px;
+    width: 1200px;
+    height: 50px;
+    font-size: 20px;
     font-family: Tahoma, Geneva, sans-serif;
     font-weight: bold;
     text-align: center;
     text-shadow: 3px 2px 3px #333333;
     background-color: #8AD9FF;
     border-radius: 8px;
-    background-image: url("http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg");
+    background-image: url("http://www.photohdx.com/images/2016/02/green-horizontal-lines-texture-background.jpg" );
 }
 #menu li { 
 display: inline; 
@@ -54,7 +56,3 @@ padding: 20px;
     color: #00F;
     padding: 8px 8px 8px 8px;
 }
-#home {
-	background-image: url();
-}
-tiger
