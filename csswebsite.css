@@ -8,7 +8,7 @@
   opacity: 5;
 }
 body {
-  background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img1/fore.jpg");
+  background-image: url("https://px.multiscreensite.com/index.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhaidewandaga%2Fwebsiteproject.github.io%2Fmaster%2Fimg1%2Ffore.jpg&hl=0");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -25,7 +25,7 @@ body {
   text-shadow: 3px 2px 3px #333333;
 
   border-radius: 8px;
-  background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img1/wood.jpg" );
+  background-image: url("https://px.multiscreensite.com/index.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhaidewandaga%2Fwebsiteproject.github.io%2Fmaster%2Fimg1%2Fwood.jpg&hl=0" );
 }
 #navi a{
     text-decoration: none;
