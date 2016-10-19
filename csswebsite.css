@@ -79,8 +79,7 @@ body {
   background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img1/wood.jpg" );
 }
 #close{
-  float: center;
-  color: red;
+  background-position: center center;
   width: 50%;
   height: 70px;
   font-size: 35px;
