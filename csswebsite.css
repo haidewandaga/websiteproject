@@ -80,7 +80,7 @@ body {
 }
 #close{
   float: center;
-  text-color: red;
+  color: red;
   width: 50%;
   height: 70px;
   font-size: 35px;
@@ -88,6 +88,7 @@ body {
   text-align: center;
   border-radius: 10px;
   background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img1/wood.jpg");
+  padding-left: 2em;
 }
 #posted {
   text-align: center;
