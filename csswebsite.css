@@ -89,3 +89,9 @@ body {
   border-radius: 10px;
   background-image: url("https://raw.githubusercontent.com/haidewandaga/websiteproject.github.io/master/img1/wood.jpg" );
 }
+#posted {
+  text-align: center;
+}
+#contact {
+  text-align: center;
+}
