@@ -48,6 +48,13 @@ body {
   opacity: .8;
   text-align: left;
 }
+#click {
+  font-size: 15;
+  color: white;
+  background-color: black;
+  opacity: .8;
+  text-align: center;
+}
 #lowpa{
   padding-top: 1em;
 }
