@@ -17,15 +17,16 @@ body {
 
 }
 #navi{
+  font-family: Verdana;
   padding-top: 2em;
   width: 99%;
   height: 65px;
-  font-size: 33px;
+  font-size: 25px;
   font-weight: bold; 
   text-align: center;
   text-shadow: 3px 2px 3px #333333;
   border-radius: 6px;
- 
+  background-image: url("https://px.multiscreensite.com/index.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhaidewandaga%2Fwebsiteproject.github.io%2Fmaster%2Fimg1%2Fwood.jpg&hl=0" );
 }
 #navi a{
     text-decoration: none;
