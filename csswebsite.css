@@ -28,6 +28,7 @@ body {
   background-image: url("https://px.multiscreensite.com/index.php?url=https%3A%2F%2Fraw.githubusercontent.com%2Fhaidewandaga%2Fwebsiteproject.github.io%2Fmaster%2Fimg1%2Fwood.jpg&hl=0" );
 }
 #navi a{
+  padding-top:.2em;
     text-decoration: none;
     color:#C04000;
 }
